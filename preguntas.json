@@ -1,0 +1,698 @@
+[
+    {
+        "id": 1,
+        "pregunta": "Pretérito perfecto de 'comer' en primera persona del singular",
+        "opciones": ["Comí", "He comido", "Comía"],
+        "respuesta": "He comido"
+    },
+    {
+        "id": 2,
+        "pregunta": "Un sinónimo de 'alegre'",
+        "opciones": ["Triste", "Contento", "Enfadado"],
+        "respuesta": "Contento"
+    },
+    {
+        "id": 3,
+        "pregunta": "¿Cómo se escribe 26",
+        "opciones": ["Veintiséis", "Veinte y séis", "Ventiséis"],
+        "respuesta": "Veintiséis"
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Cuál es la forma correcta de decir 'I am from Spain' en español?",
+        "opciones": ["Yo soy de España", "Yo estoy de España", "Yo es de España"],
+        "respuesta": "Yo soy de España"
+    },
+    {
+        "id": 5,
+        "pregunta": "¿Cómo se dice 'apple' en español?",
+        "opciones": ["Manzana", "Pera", "Plátano"],
+        "respuesta": "Manzana"
+    },
+    {
+        "id": 6,
+        "pregunta": "Elige la forma correcta de 'yo' en plural:",
+        "opciones": ["Tú", "Ellos", "Nosotros"],
+        "respuesta": "Nosotros"
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Cómo se forma el plural de 'niño'?",
+        "opciones": ["Niños", "Niña", "Niñoses"],
+        "respuesta": "Niños"
+    },
+    {
+        "id": 8,
+        "pregunta": "¿Cuál es la forma correcta de 'She speaks Spanish' en español?",
+        "opciones": ["Ella habla español", "Ella habla en español", "Ella hablar español"],
+        "respuesta": "Ella habla español"
+    },
+    {
+        "id": 9,
+        "pregunta": "¿Qué significa 'grande'?",
+        "opciones": ["Small", "Big", "Beautiful"],
+        "respuesta": "Big"
+    },
+    {
+        "id": 10,
+        "pregunta": "¿Qué forma verbal corresponde a la primera persona del singular en presente de 'vivir'?",
+        "opciones": ["Vivo", "Vives", "Vivir"],
+        "respuesta": "Vivo"
+    },
+    {
+        "id": 11,
+        "pregunta": "¿Cómo se dice 'dog' en español?",
+        "opciones": ["Perro", "Gato", "Caballo"],
+        "respuesta": "Perro"
+    },
+    {
+        "id": 12,
+        "pregunta": "Elige la forma correcta de 'yo' en singular:",
+        "opciones": ["Yo", "Tú", "Ellos"],
+        "respuesta": "Yo"
+    },
+    {
+        "id": 13,
+        "pregunta": "¿Cómo se dice 'good morning' en español?",
+        "opciones": ["Buenos días", "Buenas noches", "Buenas tardes"],
+        "respuesta": "Buenos días"
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Cuál es la forma correcta del verbo 'hacer' en primera persona del singular en presente de indicativo?",
+        "opciones": ["Hago", "Haces", "Hizo"],
+        "respuesta": "Hago"
+    },
+    {
+        "id": 15,
+        "pregunta": "¿Cómo se escribe 43?",
+        "opciones": ["Cuarenta y tres", "Cuarenta tres", "Treinta y tres"],
+        "respuesta": "Cuarenta y tres"
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Qué significa 'verde'?",
+        "opciones": ["Red", "Blue", "Green"],
+        "respuesta": "Green"
+    },
+    {
+        "id": 17,
+        "pregunta": "¿Cómo se dice 'school' en español?",
+        "opciones": ["Escuela", "Trabajo", "Casa"],
+        "respuesta": "Escuela"
+    },
+    {
+        "id": 18,
+        "pregunta": "Elige la forma correcta del verbo 'ser' en tercera persona del singular en presente:",
+        "opciones": ["Es", "Son", "Somos"],
+        "respuesta": "Es"
+    },
+    {
+        "id": 19,
+        "pregunta": "¿Cómo se dice 'I am hungry' en español?",
+        "opciones": ["Tengo hambre", "Soy hambre", "Estás hambre"],
+        "respuesta": "Tengo hambre"
+    },
+    {
+        "id": 20,
+        "pregunta": "¿Qué significa 'rojo'?",
+        "opciones": ["Red", "Blue", "Yellow"],
+        "respuesta": "Red"
+    },
+    {
+        "id": 21,
+        "pregunta": "¿Cómo se dice 'yesterday' en español?",
+        "opciones": ["Hoy", "Mañana", "Ayer"],
+        "respuesta": "Ayer"
+    },
+    {
+        "id": 22,
+        "pregunta": "Elige la forma correcta del verbo 'trabajar' en primera persona del singular en presente:",
+        "opciones": ["Trabajo", "Trabajé", "Trabajaba"],
+        "respuesta": "Trabajo"
+    },
+    {
+        "id": 23,
+        "pregunta": "¿Qué significa 'feliz'?",
+        "opciones": ["Sad", "Happy", "Angry"],
+        "respuesta": "Happy"
+    },
+    {
+        "id": 24,
+        "pregunta": "¿Cómo se dice 'to eat' en español?",
+        "opciones": ["Comer", "Beber", "Hablar"],
+        "respuesta": "Comer"
+    },
+    {
+        "id": 25,
+        "pregunta": "Elige la forma correcta de 'ir' en primera persona del plural en presente:",
+        "opciones": ["Vamos", "Van", "Vas"],
+        "respuesta": "Vamos"
+    },
+    {
+        "id": 26,
+        "pregunta": "¿Cómo se dice 'I am going to the park' en español?",
+        "opciones": ["Voy al parque", "Vas al parque", "Vamos al parque"],
+        "respuesta": "Voy al parque"
+    },
+    {
+        "id": 27,
+        "pregunta": "¿Qué significa 'hermano'?",
+        "opciones": ["Brother", "Sister", "Friend"],
+        "respuesta": "Brother"
+    },
+    {
+        "id": 28,
+        "pregunta": "¿Cómo se escribe 56?",
+        "opciones": ["Cincuenta y seis", "Cincuenta y seís", "Cincuentiséis"],
+        "respuesta": "Cincuenta y seis"
+    },
+    {
+        "id": 29,
+        "pregunta": "Elige la forma correcta del verbo 'ver' en segunda persona del singular en presente:",
+        "opciones": ["Ves", "Ve", "Vimos"],
+        "respuesta": "Ves"
+    },
+    {
+        "id": 30,
+        "pregunta": "¿Cómo se dice 'book' en español?",
+        "opciones": ["Libro", "Cuento", "Revista"],
+        "respuesta": "Libro"
+    },
+    {
+        "id": 31,
+        "pregunta": "Elige la forma correcta del verbo 'comer' en primera persona del plural en presente:",
+        "opciones": ["Comemos", "Comí", "Comía"],
+        "respuesta": "Comemos"
+    },
+    {
+        "id": 32,
+        "pregunta": "¿Cómo se dice 'I am studying' en español?",
+        "opciones": ["Estoy estudiar", "Estoy estudiando", "Soy estudiar"],
+        "respuesta": "Estoy estudiando"
+    },
+    {
+        "id": 33,
+        "pregunta": "¿Qué significa 'noche'?",
+        "opciones": ["Morning", "Night", "Afternoon"],
+        "respuesta": "Night"
+    },
+    {
+        "id": 34,
+        "pregunta": "¿Cuál es la forma correcta del verbo 'hacer' en tercera persona del singular en presente de indicativo?",
+        "opciones": ["Hace", "Hicieron", "Hiciste"],
+        "respuesta": "Hace"
+    },
+    {
+        "id": 35,
+        "pregunta": "¿Cómo se dice 'to write' en español?",
+        "opciones": ["Escribir", "Leer", "Hablar"],
+        "respuesta": "Escribir"
+    },
+    {
+        "id": 36,
+        "pregunta": "Elige la forma correcta del verbo 'vivir' en segunda persona del singular en presente:",
+        "opciones": ["Vives", "Vivimos", "Viven"],
+        "respuesta": "Vives"
+    },
+    {
+        "id": 37,
+        "pregunta": "¿Cómo se dice 'I am hungry' en español?",
+        "opciones": ["Tengo hambre", "Tengo sed", "Estoy cansado"],
+        "respuesta": "Tengo hambre"
+    },
+    {
+        "id": 38,
+        "pregunta": "¿Qué significa 'grande'?",
+        "opciones": ["Small", "Big", "Short"],
+        "respuesta": "Big"
+    },
+    {
+        "id": 39,
+        "pregunta": "¿Cómo se dice 'to read' en español?",
+        "opciones": ["Leer", "Estudiar", "Escribir"],
+        "respuesta": "Leer"
+    },
+    {
+        "id": 40,
+        "pregunta": "¿Cuál es la forma correcta de 'salir' en primera persona del singular en presente?",
+        "opciones": ["Salgo", "Salí", "Salir"],
+        "respuesta": "Salgo"
+    },
+    {
+        "id": 41,
+        "pregunta": "¿Cuál es la forma correcta del verbo 'leer' en pretérito imperfecto, tercera persona del plural?",
+        "opciones": ["Leían", "Leyeron", "Leído"],
+        "respuesta": "Leían"
+    },
+    {
+        "id": 42,
+        "pregunta": "¿Cómo se dice 'He is taller than me' en español?",
+        "opciones": ["Él es más alto que yo", "Él es tan alto como yo", "Él tiene más alto que yo"],
+        "respuesta": "Él es más alto que yo"
+    },
+    {
+        "id": 43,
+        "pregunta": "¿Qué palabra es un antónimo de 'fácil'?",
+        "opciones": ["Difícil", "Rápido", "Corto"],
+        "respuesta": "Difícil"
+    },
+    {
+        "id": 44,
+        "pregunta": "Elige la forma correcta del verbo 'vivir' en futuro simple, primera persona del singular:",
+        "opciones": ["Viviré", "Viviría", "Vivo"],
+        "respuesta": "Viviré"
+    },
+    {
+        "id": 45,
+        "pregunta": "¿Cuál es la traducción correcta de 'I have been working for two hours'?",
+        "opciones": ["He estado trabajando dos horas", "Estuve trabajando dos horas", "Trabajo desde hace dos horas"],
+        "respuesta": "He estado trabajando dos horas"
+    },
+    {
+        "id": 46,
+        "pregunta": "¿Cómo se dice 'I am waiting for you' en español?",
+        "opciones": ["Estoy esperando para ti", "Te espero", "Espero para ti"],
+        "respuesta": "Te espero"
+    },
+    {
+        "id": 47,
+        "pregunta": "¿Qué significa 'tener éxito'?",
+        "opciones": ["To fail", "To succeed", "To be rich"],
+        "respuesta": "To succeed"
+    },
+    {
+        "id": 48,
+        "pregunta": "¿Cómo se dice 'although' en español?",
+        "opciones": ["Sin embargo", "Aunque", "Por lo tanto"],
+        "respuesta": "Aunque"
+    },
+    {
+        "id": 49,
+        "pregunta": "Completa: '¿En qué ciudad _______ ahora? ¿Cuál _______ tu profesión?",
+        "opciones": ["estás / es", "estás / estás", "es / es"],
+        "respuesta": "estás / es"
+    },
+    {
+        "id": 50,
+        "pregunta": "¿Cómo se dice 'I would like to go to the cinema' en español?",
+        "opciones": ["Me gustaría ir al cine", "Quiero ir al cine", "Voy al cine"],
+        "respuesta": "Me gustaría ir al cine"
+    },
+    {
+        "id": 51,
+        "pregunta": "Si hay un perro en la calle y alguien le grita '¡Corre, perro, corre!', ¿qué tiempo verbal está usando?",
+        "opciones": ["Presente", "Imperativo", "Pretérito perfecto"],
+        "respuesta": "Imperativo"
+    },
+    {
+        "id": 52,
+        "pregunta": "¿Cómo se traduce al español la famosa frase: 'I can’t stand it anymore'?",
+        "opciones": ["No puedo más", "Me aguanto", "No lo tolero"],
+        "respuesta": "No puedo más"
+    },
+    {
+        "id": 53,
+        "pregunta": "Imagina que tu abuela te invita a comer. ¿Cómo dirías que estás muy contento de ir?",
+        "opciones": ["Estoy feliz de ir", "Me da igual", "¡Yupi, abuela!"],
+        "respuesta": "Estoy feliz de ir"
+    },
+    {
+        "id": 54,
+        "pregunta": "En la frase 'Aunque me lo digas, no lo creeré', ¿qué significa 'aunque'?",
+        "opciones": ["Por eso", "Si", "A pesar de que"],
+        "respuesta": "A pesar de que"
+    },
+    {
+        "id": 55,
+        "pregunta": "Si yo digo 'No me gusta bailar, pero lo hago cuando hay fiesta', ¿en qué tiempo verbal estoy hablando de lo que hago en el futuro?",
+        "opciones": ["Presente", "Futuro", "Condicional"],
+        "respuesta": "Presente"
+    },
+    {
+        "id": 56,
+        "pregunta": "Si alguien te dice '¡Cuidado! Estás pisando la caca del perro', ¿cómo reaccionas? Elige la respuesta más correcta.",
+        "opciones": ["Me quito la caca rápidamente", "Tiro el zapato a la basura", "Me río y sigo caminando"],
+        "respuesta": "Me quito la caca rápidamente"
+    },
+    {
+        "id": 57,
+        "pregunta": "Imagina que estás en una película de acción y tienes que saltar del techo de un edificio. ¿Cómo dirías en español 'I will jump'?",
+        "opciones": ["Voy a saltar", "Salto", "Saltaría"],
+        "respuesta": "Voy a saltar"
+    },
+    {
+        "id": 58,
+        "pregunta": "¿Cómo se traduce al español 'It’s raining cats and dogs' (literalmente 'Está lloviendo gatos y perros')?",
+        "opciones": ["Está lloviendo mucho", "Hace un calor horrible", "Está nevando mucho"],
+        "respuesta": "Está lloviendo mucho"
+    },
+    {
+        "id": 59,
+        "pregunta": "Si en tu fiesta de cumpleaños alguien te dice: '¡Qué bien que estés aquí, eres una estrella!', ¿qué tiempo verbal están usando?",
+        "opciones": ["Presente", "Pretérito imperfecto", "Pretérito perfecto"],
+        "respuesta": "Presente"
+    },
+    {
+        "id": 60,
+        "pregunta": "Si alguien dice: 'No tengo tiempo para estudiar, pero siempre saco buenas notas', ¿qué tiempo verbal están usando?",
+        "opciones": ["Condicional", "Presente", "Pretérito perfecto"],
+        "respuesta": "Presente"
+    },
+    {
+        "id": 61,
+        "pregunta": "¿Cuál es la forma correcta del verbo en: 'Si yo _____ más temprano, habría llegado a tiempo.'?",
+        "opciones": ["salgo", "salía", "hubiera salido"],
+        "respuesta": "hubiera salido"
+    },
+    {
+        "id": 62,
+        "pregunta": "Cuando uso la expresión '¡Déjame en paz!', me siento:" ,
+        "opciones": ["Enfadado", "Contento", "Con ganas de bailar"],
+        "respuesta": "Enfadado"
+    },
+    {
+        "id": 63,
+        "pregunta": "¿Cuál es la traducción correcta de la frase 'I wish I knew the answer'?",
+        "opciones": ["Ojalá supiera la respuesta", "Creo saber la respuesta", "Te lo diría si supiera la respuesta"],
+        "respuesta": "Ojalá supiera la respuesta"
+    },
+    {
+        "id": 64,
+        "pregunta": "En la frase 'Él es más inteligente de lo que parece', ¿qué significa la expresión 'de lo que'?",
+        "opciones": ["Es una comparación entre dos cosas", "Es una causa", "Es una consecuencia"],
+        "respuesta": "Es una comparación entre dos cosas"
+    },
+    {
+        "id": 65,
+        "pregunta": "Elige el determinante adecuado: '____ mano'",
+        "opciones": ["La mano", "El mano", "Lo mano"],
+        "respuesta": "La mano"
+    },
+    {
+        "id": 66,
+        "pregunta": "Completa: 'Quiero ir ____ compras'",
+        "opciones": ["a", "de", "sobre"],
+        "respuesta": "de"
+    },
+    {
+        "id": 67,
+        "pregunta": "Si dices: 'No me importaría viajar a París', ¿qué tiempo verbal estás usando?",
+        "opciones": ["Condicional", "Subjuntivo", "Futuro"],
+        "respuesta": "Condicional"
+    },
+    {
+        "id": 68,
+        "pregunta": "¿Qué significa la expresión 'meter la pata'?",
+        "opciones": ["Hacer algo bien", "Cometer un error", "Hacer algo divertido"],
+        "respuesta": "Cometer un error"
+    },
+    {
+        "id": 69,
+        "pregunta": "Las siguientes palabras son femeninas:",
+        "opciones": ["Gente, clase, ciudad, playa y arte", "Naturaleza, historia, serie, ciudad y teatro", "Historia, ciudad, gente, clase y revista"],
+        "respuesta": "Historia, ciudad, gente, clase y revista"
+    },
+    {
+        "id": 70,
+        "pregunta": "En 'Quiero que vengas', ¿en qué modo verbal está el verbo 'venir'?",
+        "opciones": ["Presente", "Subjuntivo", "Imperativo"],
+        "respuesta": "Subjuntivo"
+    },
+    {
+        "id": 71,
+        "pregunta": "¿Cuál es la forma correcta de decir 'Bailo' en futuro?",
+        "opciones": ["Bailaré", "Me gustaré bailar", "Me va a gustar bailar"],
+        "respuesta": "Bailaré"
+    },
+    {
+        "id": 72,
+        "pregunta": "Has visto una película que te ha hecho llorar y alguien te pregunta si estás bien, ¿qué tiene más sentido decir?",
+        "opciones": ["Estoy feliz como una perdiz", "Estoy rojo como un tomate", "Estoy triste como un perro mojado"],
+        "respuesta": "Estoy triste como un perro mojado"
+    },
+    {
+        "id": 73,
+        "pregunta": "¿Qué palabra se usa para decir que algo es 'muy, muy grande' en español?",
+        "opciones": ["Gigante", "Chiquito", "Grandecito"],
+        "respuesta": "Gigante"
+    },
+    {
+        "id": 74,
+        "pregunta": "Si tu mejor amigo se ha comprado un coche nuevo y te dice que está muy contento, ¿qué puedes decirle?",
+        "opciones": ["¡Qué rollo!", "¡Qué guay, me alegro por ti!", "¡Qué pena!"],
+        "respuesta": "¡Qué guay, me alegro por ti!"
+    },
+    {
+        "id": 75,
+        "pregunta": "Si alguien te dice 'estoy tan cansado que no puedo moverme', ¿qué expresión podrías usar para mostrar que lo entiendes?",
+        "opciones": ["¡Estoy igual que una vaca perezosa!", "¡Yo también me siento como un zombi!", "¡Yo me siento como un superhéroe!"],
+        "respuesta": "¡Yo también me siento como un zombi!"
+    },
+    {
+        "id": 76,
+        "pregunta": "¿Qué frase se usa para decir que alguien tiene un buen sentido del humor?",
+        "opciones": ["Es una persona de cara larga", "Es un alma triste", "Es una persona de risa fácil"],
+        "respuesta": "Es una persona de risa fácil"
+    },
+    {
+        "id": 77,
+        "pregunta": "¿Cómo dirías que te estás divirtiendo mucho en una fiesta?",
+        "opciones": ["¡Estoy aburrido como una ostra!", "¡Estoy flipando de lo bien que lo paso!", "¡Estoy bailando como un pato!"],
+        "respuesta": "¡Estoy flipando de lo bien que lo paso!"
+    },
+    {
+        "id": 78,
+        "pregunta": "Si alguien te dice que va a hacer una gran fiesta, ¿cuál sería una respuesta afirmativa y animada?",
+        "opciones": ["¡Qué rollo!", "¡Qué miedo, no quiero ir!", "¡Qué bien, cuenta conmigo!"],
+        "respuesta": "¡Qué bien, cuenta conmigo!"
+    },
+    {
+        "id": 79,
+        "pregunta": "Si dices que algo es 'pan comido', ¿qué estás tratando de expresar?",
+        "opciones": ["Que es muy difícil", "Que es muy fácil", "Que es una comida deliciosa"],
+        "respuesta": "Que es muy fácil"
+    },
+    {
+        "id": 80,
+        "pregunta": "Si tu amigo está hablando muy rápido y no entiendes nada, ¿qué frase podrías usar para pedirle que hable más despacio?",
+        "opciones": ["¡Hablas como una tortuga!", "¡Habla más rápido, por favor!", "¡Habla más despacio, que me mareo!"],
+        "respuesta": "¡Habla más despacio, que me mareo!"
+    },
+    {
+        "id": 81,
+        "pregunta": "¿Cómo se dice 'hello' en español?",
+        "opciones": ["Hola", "Adiós", "Gracias"],
+        "respuesta": "Hola"
+    },
+    {
+        "id": 82,
+        "pregunta": "¿Cuál es el plural de 'gato'?",
+        "opciones": ["Gatas", "Gatoes", "Gatos"],
+        "respuesta": "Gatos"
+    },
+    {
+        "id": 83,
+        "pregunta": "¿Qué número es 'quince'?",
+        "opciones": ["15", "50", "5"],
+        "respuesta": "15"
+    },
+    {
+        "id": 84,
+        "pregunta": "¿Cuál es el antónimo de 'grande'?",
+        "opciones": ["Alto", "Pequeño", "Bonito"],
+        "respuesta": "Pequeño"
+    },
+    {
+        "id": 85,
+        "pregunta": "¿Qué verbo usamos para hablar de lo que nos gusta?",
+        "opciones": ["Encantar", "Gustar", "Tener"],
+        "respuesta": "Gustar"
+    },
+    {
+        "id": 86,
+        "pregunta": "¿Cuál es la forma correcta de presentarte?",
+        "opciones": ["Yo llamo María", "Me llamo María", "Soy llama María"],
+        "respuesta": "Me llamo María"
+    },
+    {
+        "id": 87,
+        "pregunta": "¿Cómo se dice 'thank you' en español?",
+        "opciones": ["Por favor", "Gracias", "De nada"],
+        "respuesta": "Gracias"
+    },
+    {
+        "id": 88,
+        "pregunta": "¿Qué palabra usamos para decir que algo cuesta poco dinero?",
+        "opciones": ["Caro", "Barato", "Bonito"],
+        "respuesta": "Barato"
+    },
+    {
+        "id": 89,
+        "pregunta": "¿Cuál es la forma correcta del verbo 'tener' en primera persona del singular?",
+        "opciones": ["Tengo", "Tene", "Tienes"],
+        "respuesta": "Tengo"
+    },
+    {
+        "id": 90,
+        "pregunta": "¿Qué día viene después del martes?",
+        "opciones": ["Miércoles", "Lunes", "Jueves"],
+        "respuesta": "Miércoles"
+    },
+    {
+        "id": 91,
+        "pregunta": "¿Qué significa 'tener hambre'?",
+        "opciones": ["Estar cansado", "Querer comer", "Tener sueño"],
+        "respuesta": "Querer comer"
+    },
+    {
+        "id": 92,
+        "pregunta": "Si alguien dice 'Voy al súper', ¿a dónde va?",
+        "opciones": ["A salvar el mundo", "Al supermercado", "Al gimnasio"],
+        "respuesta": "Al supermercado"
+    },
+    {
+        "id": 93,
+        "pregunta": "¿Qué puedes decir si no entiendes algo?",
+        "opciones": ["¿Puedes repetir eso?", "¿Dónde está el baño?", "Tengo hambre"],
+        "respuesta": "¿Puedes repetir eso?"
+    },
+    {
+        "id": 94,
+        "pregunta": "Si alguien dice 'Estoy de vacaciones', significa que...",
+        "opciones": ["Está trabajando", "Está enfermo", "No está trabajando y descansa"],
+        "respuesta": "No está trabajando y descansa"
+    },
+    {
+        "id": 95,
+        "pregunta": "Completa: 'Me llamo Clara y ________ de Colombia",
+        "opciones": ["Soy", "Estoy", "Siento"],
+        "respuesta": "Soy"
+    },
+    {
+        "id": 96,
+        "pregunta": "¿Qué tiene sentido decir en un restaurante?",
+        "opciones": ["La cuenta, por favor", "¿Cuánto cuesta el bus?", "¿Dónde vives?"],
+        "respuesta": "La cuenta, por favor"
+    },
+    {
+        "id": 97,
+        "pregunta": "Si alguien dice 'Estoy perdido/a', ¿qué le pasa?",
+        "opciones": ["No sabe dónde está", "Está contento", "Va al trabajo"],
+        "respuesta": "No sabe dónde está"
+    },
+    {
+        "id": 98,
+        "pregunta": "¿Qué significa '¡Qué calorazo hace!'?",
+        "opciones": ["Hace mucho frío", "Está lloviendo", "Hace mucho calor"],
+        "respuesta": "Hace mucho calor"
+    },
+    {
+        "id": 99,
+        "pregunta": "Si dices 'Voy a tomar algo con amigos', probablemente vas a...",
+        "opciones": ["Comer o beber con ellos", "Estudiar en casa con ellos", "Salir a deambular con ellos"],
+        "respuesta": "Comer o beber con ellos"
+    },
+    {
+        "id": 100,
+        "pregunta": "¿Qué significa 'Estoy cansado/a'?",
+        "opciones": ["Tengo energía", "Tengo sueño o necesito descansar", "Quiero salir"],
+        "respuesta": "Tengo sueño o necesito descansar"
+    },
+    {
+        "id": 101,
+        "pregunta": "¿Qué significa realmente cuando alguien dice: 'No tiene desperdicio'?",
+        "opciones": ["Es algo muy malo", "Es algo muy bueno o interesante", "No sirve para nada"],
+        "respuesta": "Es algo muy bueno o interesante"
+    },
+    {
+        "id": 102,
+        "pregunta": "Si alguien dice 'Estoy hasta arriba de trabajo', ¿qué quiere decir?",
+        "opciones": ["Tiene trabajo acumulado", "Está desempleado", "Ha terminado todo su trabajo"],
+        "respuesta": "Tiene trabajo acumulado"
+    },
+    {
+        "id": 103,
+        "pregunta": "¿Cuál de estas frases es más adecuada en un contexto informal?",
+        "opciones": ["Ha sido un verdadero despropósito", "Ha sido un desastre total", "Ha sido una inadecuación"],
+        "respuesta": "Ha sido un desastre total"
+    },
+    {
+        "id": 104,
+        "pregunta": "¿Qué quiere decir si alguien 'mete la pata'?",
+        "opciones": ["Que ha cometido un error", "Que ha hecho algo bien", "Que ha corrido mucho"],
+        "respuesta": "Que ha cometido un error"
+    },
+    {
+        "id": 105,
+        "pregunta": "Cuando una persona dice '¡Vaya tela!', normalmente está expresando...",
+        "opciones": ["Admiración", "Que le gusta la moda", "Sorpresa o indignación"],
+        "respuesta": "Sorpresa o indignación"
+    },
+    {
+        "id": 106,
+        "pregunta": "¿Cuál de estas expresiones usarías para decir que algo es facilísimo?",
+        "opciones": ["Está chupado", "Está quemado", "Está cocido"],
+        "respuesta": "Está chupado"
+    },
+    {
+        "id": 107,
+        "pregunta": "¿Qué significa que una persona 'no da su brazo a torcer'?",
+        "opciones": ["No se rinde fácilmente", "Se lesiona con facilidad", "Se muestra indecisa"],
+        "respuesta": "No se rinde fácilmente"
+    },
+    {
+        "id": 108,
+        "pregunta": "Si te dicen: 'Esa película es un tostón', probablemente...",
+        "opciones": ["Te vas a reír muchísimo", "Te vas a aburrir mucho", "Tiene muchas escenas de acción"],
+        "respuesta": "Te vas a aburrir mucho"
+    },
+    {
+        "id": 109,
+        "pregunta": "¿Qué significa que alguien es 'un crack'?",
+        "opciones": ["Que rompe cosas", "Que es muy torpe", "Que es muy bueno en algo"],
+        "respuesta": "Que es muy bueno en algo"
+    },
+    {
+        "id": 110,
+        "pregunta": "Cuando alguien dice 'Estoy que me subo por las paredes', está expresando...",
+        "opciones": ["Entusiasmo extremo", "Ira o ansiedad", "Pereza total"],
+        "respuesta": "Ira o ansiedad"
+    },
+    {
+        "id": 111,
+        "pregunta": "Completa: 'Mi cumpleaños ________ el 14 de abril, así que pronto voy a celebrarlo",
+        "opciones": ["es", "está", "parece"],
+        "respuesta": "es"
+    },
+    {
+        "id": 112,
+        "pregunta": "Completa: Yo ______ economista, pero también me gusta mucho la literatura",
+        "opciones": ["soy", "estoy", "parezco"],
+        "respuesta": "soy"
+    },
+    {
+        "id": 113,
+        "pregunta": "Completa: Ahora ______ en España porque estoy haciendo un máster",
+        "opciones": ["soy", "estoy", "parezco"],
+        "respuesta": "estoy"
+    },
+    {
+        "id": 114,
+        "pregunta": "Con qué intención se dice '¿me pasas el pan, por favor?",
+        "opciones": ["Pedir un favor", "Pedir permiso", "Justificarse"],
+        "respuesta": "Pedir un favor"
+    },
+    {
+        "id": 115,
+        "pregunta": "Completa: '¿Te ______ si abro la ventana?'",
+        "opciones": ["importa", "puedo", "dejo"],
+        "respuesta": "importa"
+    },
+    {
+        "id": 116,
+        "pregunta": "Completa: 'No puedo, ______ ya he quedado'",
+        "opciones": ["es que", "tengo", "tengo que"],
+        "respuesta": "es que"
+    }
+]
