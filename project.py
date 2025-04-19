@@ -2,6 +2,7 @@ import streamlit as st
 import json
 import random
 import os
+import streamlit_js_cookie
 
 # Estilo CSS para centrar todo el contenido
 def estilo_personalizado():
@@ -22,17 +23,13 @@ def cargar_preguntas():
     with open("preguntas.json", "r", encoding="utf-8") as f:
         return json.load(f)
 
-# Guardar el récord en un archivo
+# Guardar el récord en las cookies locales
 def guardar_record(record):
-    with open("record.json", "w", encoding="utf-8") as f:
-        json.dump({"record": record}, f)
+    streamlit_js_cookie.set('record', record, expires=365 * 24 * 60 * 60)  # Guardar por un año
 
-# Cargar récord desde archivo (si existe)
+# Cargar el récord desde las cookies locales (si existe)
 def cargar_record():
-    if os.path.exists("record.json"):
-        with open("record.json", "r", encoding="utf-8") as f:
-            return json.load(f).get("record", 0)
-    return 0
+    return streamlit_js_cookie.get('record', default=0)  # Obtener el récord de las cookies, por defecto 0
 
 # Inicializar estado del juego
 def inicializar_estado():
