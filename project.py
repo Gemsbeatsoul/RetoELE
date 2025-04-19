@@ -1,8 +1,6 @@
 import streamlit as st
 import json
 import random
-import os
-import streamlit_js_cookie
 
 # Estilo CSS para centrar todo el contenido
 def estilo_personalizado():
@@ -23,13 +21,19 @@ def cargar_preguntas():
     with open("preguntas.json", "r", encoding="utf-8") as f:
         return json.load(f)
 
-# Guardar el récord en las cookies locales
-def guardar_record(record):
-    streamlit_js_cookie.set('record', record, expires=365 * 24 * 60 * 60)  # Guardar por un año
-
-# Cargar el récord desde las cookies locales (si existe)
+# Cargar el récord desde el archivo JSON (solo se carga al inicio)
 def cargar_record():
-    return streamlit_js_cookie.get('record', default=0)  # Obtener el récord de las cookies, por defecto 0
+    try:
+        with open("record.json", "r", encoding="utf-8") as f:
+            data = json.load(f)
+            return data.get("record", 0)
+    except FileNotFoundError:
+        return 0  # Si no existe el archivo, retornamos 0 como récord inicial
+
+# Guardar el récord en el archivo JSON
+def guardar_record(record):
+    with open("record.json", "w", encoding="utf-8") as f:
+        json.dump({"record": record}, f)
 
 # Inicializar estado del juego
 def inicializar_estado():
@@ -40,7 +44,9 @@ def inicializar_estado():
         st.session_state.indice = 0
         st.session_state.puntos = 0
         st.session_state.juego_terminado = False
-        st.session_state.record = cargar_record()
+        # Cargar el récord si no está ya en session_state
+        if "record" not in st.session_state:
+            st.session_state.record = cargar_record()
 
 def main():
     st.set_page_config(page_title="Reto ELE", page_icon="🧠")
@@ -55,7 +61,8 @@ def main():
         st.markdown(f"<p class='centered'>Tu puntuación: {st.session_state.puntos}</p>", unsafe_allow_html=True)
 
         if st.session_state.puntos > st.session_state.record:
-            guardar_record(st.session_state.puntos)
+            st.session_state.record = st.session_state.puntos  # Actualizar el récord en session_state
+            guardar_record(st.session_state.record)  # Guardar el nuevo récord en el archivo
             st.markdown("<p class='centered'>🏆 ¡Nuevo récord!</p>", unsafe_allow_html=True)
         else:
             st.markdown(f"<p class='centered'>🏅 Récord: {st.session_state.record}</p>", unsafe_allow_html=True)
@@ -84,7 +91,8 @@ def main():
         st.markdown(f"<p class='centered'>Puntuación final: {st.session_state.puntos}</p>", unsafe_allow_html=True)
 
         if st.session_state.puntos > st.session_state.record:
-            guardar_record(st.session_state.puntos)
+            st.session_state.record = st.session_state.puntos  # Actualizar el récord en session_state
+            guardar_record(st.session_state.record)  # Guardar el nuevo récord en el archivo
             st.markdown("<p class='centered'>🏆 ¡Nuevo récord!</p>", unsafe_allow_html=True)
         else:
             st.markdown(f"<p class='centered'>🏅 Récord: {st.session_state.record}</p>", unsafe_allow_html=True)
@@ -96,3 +104,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
